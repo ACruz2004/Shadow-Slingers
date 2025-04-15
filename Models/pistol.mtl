@@ -1,0 +1,38 @@
+# Blender 3.6.4 MTL File: 'pistol.blend'
+# www.blender.org
+
+newmtl Material
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/anthonycruz/Pictures/textures/Guns/pistol_Material_BaseColor.png
+map_Ns /Users/anthonycruz/Pictures/textures/Guns/pistol_Material_Roughness.png
+map_refl /Users/anthonycruz/Pictures/textures/Guns/pistol_Material_Metallic.png
+map_Ke /Users/anthonycruz/Pictures/textures/Guns/pistol_Material_Emissive.png
+map_Bump -bm 1.000000 /Users/anthonycruz/Pictures/textures/Guns/pistol_Material_Normal.png
+
+newmtl Material.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/anthonycruz/Pictures/textures/Guns/pistol_Material_BaseColor.png
+map_Ns /Users/anthonycruz/Pictures/textures/Guns/pistol_Material_Roughness.png
+map_refl /Users/anthonycruz/Pictures/textures/Guns/pistol_Material_Metallic.png
+map_Ke /Users/anthonycruz/Pictures/textures/Guns/pistol_Material_Emissive.png
+map_Bump -bm 1.000000 /Users/anthonycruz/Pictures/textures/Guns/pistol_Material_Normal.png
+
+newmtl Material.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd /Users/anthonycruz/Pictures/textures/Guns/pistol_Material.002_BaseColor.png
+map_Ns /Users/anthonycruz/Pictures/textures/Guns/pistol_Material.002_Roughness.png
+map_refl /Users/anthonycruz/Pictures/textures/Guns/pistol_Material.002_Metallic.png
+map_Ke /Users/anthonycruz/Pictures/textures/Guns/pistol_Material.002_Emissive.png
+map_Bump -bm 1.000000 /Users/anthonycruz/Pictures/textures/Guns/pistol_Material.002_Normal.png
